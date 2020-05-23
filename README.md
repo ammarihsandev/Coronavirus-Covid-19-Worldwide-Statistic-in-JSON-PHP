@@ -1,4 +1,4 @@
-# Coronavirus covids19 Worldwide Statistic in JSON and PHP
+# Coronavirus Covid-19 Worldwide Statistic in JSON and PHP
 A simple project that use PHP and JSON to get and display the updated statistic of worldwide and country based Coronavirus Covid-19.
 
  

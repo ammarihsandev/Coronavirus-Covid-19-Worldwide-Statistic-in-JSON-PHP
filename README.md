@@ -1,11 +1,11 @@
 # covids.asia (Coronavirus covids19 Worldwide Statistic) JSON, PHP
-A simple project that use PHP and JSON to get and display the updated statistic of worldwide and country based Coronavrus Covid19.
+A simple project that use PHP and JSON to get and display the updated statistic of worldwide and country based Coronavirus Covid-19.
 
  
 ### Highlights
 covids.asia is a Coronavirus covids19 Worldwide Statistic that use the API from kawalcorona.com. Covids.asia display full global statistic of active case, death, and recover case of all countries that infectd worldwide. 
 
-[![](https://raw.githubusercontent.com/ainstudio/OFOS-Online-Food-Ordering-System/master/screenshot/ofos.png)](https://ammarihsan.my.id "Covids.asia")
+[![](https://raw.githubusercontent.com/ainstudio/Coronavirus-Covid-19-Worldwide-Statistic-in-JSON-PHP/master/image/mock.jpg)](https://covids.asia "Covids.asia")
 > COVIDS.ASIA
 
 
